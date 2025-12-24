@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Wonderful Day",
+  "base_artist": "TWICE",
+  "createdAt": "2025-12-24T09:50:19.129476Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Wonderful Day",
+      "artist": "馮曦妤",
+      "has_synced": true,
+      "path": "select/01_A_Wonderful_Day_馮曦妤.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Wonderful Day",
+      "artist": "冯曦妤",
+      "has_synced": true,
+      "path": "select/02_A_Wonderful_Day_冯曦妤.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "On A Wonderful Day Like Today",
+      "artist": "Lena Horne",
+      "has_synced": false,
+      "path": "select/03_On_A_Wonderful_Day_Like_Today_Lena_Horne.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wonderful Day",
+      "artist": "Fra Lippo Lippi",
+      "has_synced": false,
+      "path": "select/04_Wonderful_Day_Fra_Lippo_Lippi.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wonderful Day (2020 Remaster)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/05_Wonderful_Day_(2020_Remaster)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wonderful Day (12\" Mix - 2020 Remaster)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/06_Wonderful_Day_(12__Mix_-_2020_Remaster)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wonderful Day (12\" Mix)  (2020 Remaster)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/07_Wonderful_Day_(12__Mix)_(2020_Remaster)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Wonderful Day In a One-Way World",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/08_A_Wonderful_Day_In_a_One-Way_World_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wonderful Day (12\" Mix)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/09_Wonderful_Day_(12__Mix)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wonderful Day (Original Version)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/10_Wonderful_Day_(Original_Version)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "A Wonderful Day in a One‐Way World",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/11_A_Wonderful_Day_in_a_One‐Way_World_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "A Wonderful Day in a One‐Way World",
+      "artist": "Peter Gabriel (SACD 2003 Remaster)",
+      "has_synced": true,
+      "path": "select/12_A_Wonderful_Day_in_a_One‐Way_World_Peter_Gabriel_(SACD_2003_Remaster).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wonderful Day",
+      "artist": "TWICE",
+      "has_synced": false,
+      "path": "select/pl_01_Wonderful_Day_TWICE.txt"
+    }
+  ]
+}
